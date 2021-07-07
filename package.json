@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cfereday/testing-social-trends#readme",
   "dependencies": {
-    "systeminformation": "4.31.0"
+    "systeminformation": "4.34.11"
   }
 }
