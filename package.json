@@ -1,0 +1,19 @@
+{
+  "name": "testing-social-trends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfereday/testing-social-trends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfereday/testing-social-trends/issues"
+  },
+  "homepage": "https://github.com/cfereday/testing-social-trends#readme"
+}
