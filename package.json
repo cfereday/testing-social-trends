@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cfereday/testing-social-trends/issues"
   },
-  "homepage": "https://github.com/cfereday/testing-social-trends#readme"
+  "homepage": "https://github.com/cfereday/testing-social-trends#readme",
+  "dependencies": {
+    "systeminformation": "4.34.1"
+  }
 }
