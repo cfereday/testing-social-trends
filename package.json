@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/cfereday/testing-social-trends#readme",
   "dependencies": {
-    "exiftool-vendored.pl": "12.19.0",
-    "netmask": "1.0.6",
-    "systeminformation": "4.31.0"
+    "exiftool-vendored.pl": "12.25.0",
+    "netmask": "2.0.1",
+    "systeminformation": "5.6.11"
   }
 }
