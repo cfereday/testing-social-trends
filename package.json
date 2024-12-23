@@ -19,6 +19,6 @@
   "dependencies": {
     "exiftool-vendored.pl": "12.19.0",
     "netmask": "1.0.6",
-    "systeminformation": "4.31.0"
+    "systeminformation": "5.23.8"
   }
 }
